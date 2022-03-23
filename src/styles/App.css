@@ -89,6 +89,13 @@
   font-weight: bold;
 }
 
+.footer-rari{
+  color: rgb(32, 129, 226);
+  font-size: 16px;
+  font-weight: bold;
+  margin-left: 15px
+}
+
 /* KeyFrames */
 @-webkit-keyframes gradient-animation {
   0% {
